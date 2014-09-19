@@ -7,14 +7,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Emgu.CV;
 
-namespace TestMaster
+namespace Vision
 {
-    public partial class frmMain : Form
+    public partial class VisionForm : Form
     {
-        public frmMain()
+        public VisionForm()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            
         }
     }
 }

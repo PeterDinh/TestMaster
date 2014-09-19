@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMaster", "TestMaster\Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{08CD50D4-1AE4-44FB-9452-13E1AF375407}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mathematics", "Mathematics\Mathematics.csproj", "{3ADD39EC-B69E-4947-9348-04AB242DAB28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vision", "Vision\Vision.csproj", "{734321CC-CF4E-4234-B3C6-27620931C59A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +23,14 @@ Global
 		{08CD50D4-1AE4-44FB-9452-13E1AF375407}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08CD50D4-1AE4-44FB-9452-13E1AF375407}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08CD50D4-1AE4-44FB-9452-13E1AF375407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ADD39EC-B69E-4947-9348-04AB242DAB28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ADD39EC-B69E-4947-9348-04AB242DAB28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ADD39EC-B69E-4947-9348-04AB242DAB28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ADD39EC-B69E-4947-9348-04AB242DAB28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{734321CC-CF4E-4234-B3C6-27620931C59A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{734321CC-CF4E-4234-B3C6-27620931C59A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{734321CC-CF4E-4234-B3C6-27620931C59A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{734321CC-CF4E-4234-B3C6-27620931C59A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
